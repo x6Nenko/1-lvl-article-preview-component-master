@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobilefirst-workflow-flex-grid-RDZ_amo4ZL)
-- Live Site URL: [Add live site URL here](https://x6nenko.github.io/article-preview-component-master/)
+- Live Site URL: [Add live site URL here](https://x6nenko.github.io/1-lvl-article-preview-component-master/)
 
 ## My process
 
